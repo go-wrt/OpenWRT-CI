@@ -63,6 +63,7 @@ UPDATE_PACKAGE "luci-app-bandix" "timsaya/luci-app-bandix" "main"
 UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
 UPDATE_PACKAGE "luci-app-qosmate" "hudra0/luci-app-qosmate" "main"
 UPDATE_PACKAGE "qosmate" "hudra0/qosmate" "main"
+UPDATE_PACKAGE "luci-app-timecontrol" "TimouL/luci-app-timecontrol" "main"
 
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 UPDATE_PACKAGE "diskman" "lisaac/luci-app-diskman" "master"
