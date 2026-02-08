@@ -63,7 +63,6 @@ UPDATE_PACKAGE "luci-app-bandix" "timsaya/luci-app-bandix" "main"
 UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
 
 UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
-UPDATE_PACKAGE "podman" "Zerogiven-OpenWRT-Packages/luci-app-podman" "main"
 
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 UPDATE_PACKAGE "diskman" "lisaac/luci-app-diskman" "master"
