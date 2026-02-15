@@ -52,7 +52,7 @@ jobs:
       #默认地址
       WRT_IP: 172.16.9.3
       #默认密码，仅作提示，修改无用
-      WRT_PW: Go_WRT
+      WRT_PW: G_WRT
       #源码链接
       WRT_REPO: https://github.com/${{matrix.SOURCE}}.git
       #源码分支
